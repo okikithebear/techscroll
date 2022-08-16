@@ -1,0 +1,77 @@
+body {
+  margin-top: 70px;
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Poppins;
+}
+p {
+  font-family: Roboto;
+}
+
+.navbar-default {
+  background: #fff;
+  border: 0;
+  font-family: Poppins;
+}
+.navbar-brand {
+  font-size: 20px;
+  font-weight: bold;
+  color: #000 !important;
+}
+
+#showcase h1 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+#showcase img {
+  width: 85%;
+  margin-left: 60px;
+}
+
+#showcase .showcase-right {
+  margin-top: 90px;
+}
+
+#testimonial {
+  background: #f1f1f1;
+  padding: 50px 30px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+#testimonial p {
+  font-size: 32px;
+  font-family: "josefin Sans";
+  color: #000;
+}
+#testimonial p.customer {
+  font-size: 18px;
+  color: #666;
+}
+
+#info1 .info-right {
+  margin-top: 90px;
+}
+
+#info2 {
+  margin: 20px 60px;
+}
+#contacts {
+  background: url(./images/image3.png);
+  padding: 40px;
+  color: #fff;
+  border-top: #333 7px solid;
+  border-bottom: #333 7px solid;
+}
+
+footer {
+  padding: 25px;
+}
